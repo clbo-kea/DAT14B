@@ -5,7 +5,12 @@ public class Chair
    public String color = "red";
    public int rotation;
    
-   // Constructor
+   // Constructors
+
+   public Chair()
+   {
+      // empty constructor
+   }
    public Chair(int rotation)
    {
       this.rotation = rotation;
