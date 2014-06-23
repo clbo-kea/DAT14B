@@ -10,6 +10,7 @@ public class Chair
    public Chair()
    {
       // empty constructor
+	// with a lot of comments
    }
    public Chair(int rotation)
    {
