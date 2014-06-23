@@ -4,4 +4,4 @@
 <p>A new folder will be present before during or after the teachings
 Read and clone the wiki for additional explanations.</p>
 
-<p>TEST from Computer</p>
+<p>TEST 2 from Computer</p>
